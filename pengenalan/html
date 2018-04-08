@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Top place to go</title>
+</head>
+<body>
+	<h1>BUKIT JALIL</h1>
+	<h2>SERI KEMBANGAN</h2>
+
+<img src=seri.jpg>
+
+<p>Seri Kembangan ialah sebuah bandar baru yang pesat membangun di Selangor Darul Ehsan, Malaysia. Seri Kembangan merangkumi kawasan dari Balakong, Taman Lestari Perdana dan Taman Serdang Raya(bersebelahan Taman Puncak Jalil dan Bukit Jalil) hingga ke Bandar Putra Permai / Taman Equine dan Taman Lestari Putra (bersebelahan Saujana Puchong). Seri Kembangan terletak berdekatan dengan Putrajaya ,Sungai Besi dan Puchong. Majoriti penduduk di sini berbangsa Cina pada asalnya, namun kini semakin ramai bangsa Melayu yang tinggal di sini.</p>
+<p> Seri Kembangan dijadikan pusat perniagaan kerana terdapat pelbagai kompleks membeli-belah seperti Mines Shopping Fair, Aeon Taman Equine, Giant Seri Kembangan dan South City Plaza. Selain itu, ia menjadi pusat pendidikan dengan tertubuhnya Sekolah Antarabangsa Malaysia Australia (AISM) di Jalan Anggerik, The MINES Resort City. Universiti Putra Malaysia (UPM) dan Alice Smith School juga terletak di sini. Saban tahun, penganjuran pameran pertanian MAHA oleh Kementerian Pertanian dan Industri Asas Tani Malaysia telah menarik ramai pengunjung sekaligus mempopularkan Seri Kembangan.</p>
+<hr>
+<h2>3 TEMPAT YANG SERING DIKUNJUNGI</h2>
+<ol>
+	<li>Farm In The City</li>
+	<li>Goat2Go Farm</li>
+	<li>SimflightKl </li>
+</ol>
+<hr>
+<h2>3 TEMPAT MAKANAN PALING POWER</h2>
+<ul>
+	<li>Restoran Cina Muslim Taman Equine</li>
+	<li>Restoran Ahmad Albab</li>
+	<li>Restoran Bayu</li>
+
+</ul>
+<a href="https://ms.wikipedia.org/wiki/Seri_Kembangan">reference</a>
+
+</body>
+</html>
